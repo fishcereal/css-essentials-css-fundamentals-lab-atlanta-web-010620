@@ -36,4 +36,6 @@ img{
 
 #details div{
   float: left;
+  background-color: grey; 
+  text-align: center; 
 }
