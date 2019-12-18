@@ -4,9 +4,17 @@ body {
   margin: 0;
 }
 
-h1, nav{
+h1{
   text-align: center;
 }
+
+nav+a{
+  text-align: center; 
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+
 img{
   display: block; 
   margin-left: auto;
