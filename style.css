@@ -4,7 +4,8 @@ body {
   margin: 0;
 }
 
-h1, nav {
-  margin: auto;
-  width: 50%
+h1, nav, img {
+  text-align: center;
+  /*margin: auto;*/
+  /*width: 50%;*/
 }
