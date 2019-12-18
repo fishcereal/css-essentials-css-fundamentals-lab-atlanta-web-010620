@@ -7,6 +7,9 @@ body {
 h1,nav,figcaption  {
   text-align: center;
 }
+figcaption{
+  
+}
 
 #featured-property p{
   width: 800px;
