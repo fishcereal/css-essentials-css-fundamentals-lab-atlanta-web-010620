@@ -11,6 +11,7 @@ h1,nav,figcaption  {
 #featured-property p{
   width: 800px;
   text-align: center;
+  margin: auto;
 }
 nav a{
   text-align: center; 
